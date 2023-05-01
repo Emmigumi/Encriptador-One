@@ -35,5 +35,5 @@ function desencriptar(){
   function copiar(){
       var txtCopia = document.querySelector("#txt-respuesta");
       txtCopia.select();
-      document.execCommand("copy");Encriptador
+      document.execCommand("copy");
   }
